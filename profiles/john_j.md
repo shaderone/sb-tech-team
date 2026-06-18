@@ -4,7 +4,7 @@
 **Education:** Bachelor of Computer Applications (BCA), St. Berchmans College
 
 ### Technical Skills
-* Python & React
+* Python
 * AI Tooling
 * Hardware & IT Support
 * Team Leadership & Coordination
