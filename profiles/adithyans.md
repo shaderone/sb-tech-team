@@ -1,4 +1,4 @@
-Adithyan S
+*Adithyan S*
 
 BCA Second Year
 
@@ -9,6 +9,8 @@ BCA Second Year
 -Cybersecurity 
 
 -Cloud Computing
+
+-Artificial Intelligence
 
 **Skills**
 
