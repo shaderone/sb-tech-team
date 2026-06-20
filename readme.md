@@ -1,70 +1,43 @@
-# SB Tech Team
+# Task 2: Personal Portfolio Website
 
-Repo to track Tech Team Progress.
+## Objective
 
-## First Task
+Create a personal portfolio website and host it using GitHub Pages.
 
-Each member must submit a profile through a Pull Request.
+## Requirements
 
-### Steps
+* Build a static portfolio website using HTML, CSS, and optionally JavaScript.
+* Include basic information such as:
 
-1. Fork this repository.
-2. Create a new file inside the `profiles` directory.
-3. Name the file using your name.
+  * Name
+  * About Me
+  * Skills
+  * Education
+  * Projects
+  * Contact Information
+* Make the website responsive so it works well on desktop and mobile devices.
+* NOTE : Frameworks and libraries are optional, but you should be able to understand the code you use.
 
-Example:
+## Hosting
 
-```text
-profiles/melvin.md
+Deploy your portfolio using GitHub Pages and ensure the site is publicly accessible.
+
+## Submission
+
+1. Copy your GitHub Pages URL.
+2. Open the `profile.md` file created in Project 1.
+3. Add the URL under:
+
+```markdown
+## Personal Portfolio Link
+
+https://your-portfolio-url
 ```
 
-4. Add the following information:
+4. Commit and push your changes.
 
-```md
-# Your Name
+## Evaluation
 
-## Year
-Example: MCA First Year
-
-## Interests
-- Frontend
-- Backend
-- UI/UX
-
-## Skills
-- Python
-- Java
-- HTML/CSS
-
-## Experience
-Previous projects, internships, hackathons, etc.
-
-## GitHub
-https://github.com/yourusername
-
-## What I Want To Learn
-Write a few lines about your goals.
-```
-
-5. Commit your changes.
-6. Push to your fork.
-7. Create a Pull Request.
-
-## Repository Structure
-
-```text
-sb-tech-team/
-│
-├── profiles/
-│   ├── student1.md
-│   ├── student2.md
-│   └── ...
-│
-└── README.md
-```
-
-## Guidelines
-
-* Use meaningful commit messages.
-* Be respectful during reviews and discussions.
-* Follow the provided instructions carefully.
+* Portfolio is successfully hosted on GitHub Pages.
+* Website is responsive and functional.
+* Portfolio link is correctly added to `profile.md`.
