@@ -23,3 +23,7 @@ https://github.com/mariamsona6-lab
 
 ## What I Want To Learn
 My goal is to develop a website that will be useful for my college before I complete my studies here.
+
+## Personal Portfolio Link
+
+https://yourusername.github.io/portfolio/
