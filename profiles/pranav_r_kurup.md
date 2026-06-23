@@ -12,7 +12,7 @@ BCA Third Year
 **Skills**
 
 * **Core Workflow:** Vibe Coding, AI-Assisted Development
-* **Languages (Basic Knowledge):** Python, JavaScript, C
+* **Languages (Basic Knowledge):** Python, C
 * **Web Development:** MongoDB, Express.js, React.js, Node.js, HTML, CSS, Tailwind CSS
 * **Databases & Cloud:** MongoDB Atlas, Supabase, MySQL
 * **Tools & Platforms:** Git/GitHub, Vercel, VS Code
