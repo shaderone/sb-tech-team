@@ -16,7 +16,6 @@ BCA Third Year
 * **Web Development:** MongoDB, Express.js, React.js, Node.js, HTML, CSS, Tailwind CSS
 * **Databases & Cloud:** MongoDB Atlas, Supabase, MySQL
 * **Tools & Platforms:** Git/GitHub, Vercel, VS Code
-* **AI & Computer Vision:** OpenCV, YOLOv8, NumPy, Pandas, Machine Learning Fundamentals
 
 **Experience**
 
