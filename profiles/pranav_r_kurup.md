@@ -22,8 +22,13 @@ BCA Third Year
 * **Stop Line Violation Detection System:** Developed an image-based traffic violation detection system using YOLOv8 and OpenCV to detect vehicles crossing stop lines during red traffic signals.
 * **LocalFix – Home Service Booking Platform:** Built a full-stack MERN application that connects customers with local service providers through location-based service discovery and role-based dashboards.
 
-**GitHub**
-[https://github.com/pranavrkurup](https://github.com/pranavrkurup)
+# **GITHUB**
+
+### https://github.com/pranavrkurup
+
+# **PORTFOLIO**
+
+### https://prnvspace.vercel.app
 
 **What I Want To Learn**
 
